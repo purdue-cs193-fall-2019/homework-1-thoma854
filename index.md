@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 # Shaun Thomas's First CS193 Homework
+- Our totally hype instructors CJ and Lauren
+- The lighthearted but educational environment
+- Computer science is hype, more instruction is fun! 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -16,9 +19,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Our totally hype instructors CJ and Lauren
-- The lighthearted but educational environment
-- Computer science is hype, more instruction is fun! 
+- Bulleted
+- List
 
 1. Numbered
 2. List

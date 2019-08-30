@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 # Shaun Thomas's First CS193 Homework
 - Our totally hype instructors CJ and Lauren
 - The lighthearted but educational environment
